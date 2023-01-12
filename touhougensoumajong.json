@@ -1,0 +1,24 @@
+{
+  "ver":1.0,
+  "se":{
+    "1":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/DORA.WAV?token=GHSAT0AAAAAAB5LFWF7FSYWQXYB26UIN6HYY56X3ZA"},
+    "3":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/CLOCK.WAV?token=GHSAT0AAAAAAB5LFWF6RCW4UZL6KVG7PWX2Y56X5TQ"},
+	"8":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/ATTENTION.WAV?token=GHSAT0AAAAAAB5LFWF72HCCQMVDGVBK5XX2Y56XWFA"},
+	"9":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/GET_DORA.WAV?token=GHSAT0AAAAAAB5LFWF6FBEZ7CQENUK5QRPUY56X4RQ"},
+	"10":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/AGARI.WAV?token=GHSAT0AAAAAAB5LFWF6WXJBCAJXLHES6S32Y56XT4Q"},
+    "25":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/PONG.mp3?token=GHSAT0AAAAAAB5LFWF6LNE76XCBS2XUVQHCY56YBTQ"},
+    "26":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/PONG.mp3?token=GHSAT0AAAAAAB5LFWF6LNE76XCBS2XUVQHCY56YBTQ"},
+    "27":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/Kan.mp3?token=GHSAT0AAAAAAB5LFWF7N4YNIQPLBU2SYQFOY56X6MQ"},
+    "28":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/Kan.mp3?token=GHSAT0AAAAAAB5LFWF7N4YNIQPLBU2SYQFOY56X6MQ"},
+    "29":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/CHI.mp3?token=GHSAT0AAAAAAB5LFWF7ADYUMFU52DSTBI36Y56X2SA"},
+    "30":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/CHI.mp3?token=GHSAT0AAAAAAB5LFWF7ADYUMFU52DSTBI36Y56X2SA"},
+    "31":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/REACH.WAV?token=GHSAT0AAAAAAB5LFWF6N5IUUEQRLJTUSMT6Y56YCOQ"},
+    "32":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/REACH.WAV?token=GHSAT0AAAAAAB5LFWF6N5IUUEQRLJTUSMT6Y56YCOQ"},
+    "33":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/RON.mp3?token=GHSAT0AAAAAAB5LFWF6HN42X6LONJBKFANCY56YDMA"},
+    "34":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/RON.mp3?token=GHSAT0AAAAAAB5LFWF6HN42X6LONJBKFANCY56YDMA"},
+    "35":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/TSUMO_SHORT.WAV?token=GHSAT0AAAAAAB5LFWF6PV636ZXS5D66ZNZAY56YEIA"},
+    "36":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/TSUMO_SHORT.WAV?token=GHSAT0AAAAAAB5LFWF6PV636ZXS5D66ZNZAY56YEIA"},
+    "40":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/MENU_OK.WAV?token=GHSAT0AAAAAAB5LFWF64QTLJ7LRAWHPDLFAY56X73Q"},
+    "41":{"url":"https://raw.githubusercontent.com/Prettyhurisa/TenhouSe-TouhouGensouMajong/main/OMAKE_2.WAV?token=GHSAT0AAAAAAB5LFWF6WOXY6RIXONCRDH22Y56YAJQ"}
+  }
+}
